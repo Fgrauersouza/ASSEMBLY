@@ -1,0 +1,3 @@
+vasmz80_oldstyle helloworld.asm -chklabels -nocase -Dvasm=1 -Fbin -L out.sym -o out.rom 
+
+--- (código)
